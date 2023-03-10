@@ -50,5 +50,3 @@ $ du -h -a
 $ du -h -a | sort -r -h | head -n 10
 ```
 
-
-## References used
